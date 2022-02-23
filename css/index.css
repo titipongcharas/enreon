@@ -1,17 +1,10 @@
 body {
     margin: 0;
-    background-color:#9b5050;
+    background-color:rgb(255, 255, 255);
     color: rgb(0, 0, 0);
 }
-li{
-    width: 30%;
-    background-color: #FFF;
-}
-ul{
-    background-color: #ff7b7b;
-}
+
 div{
-    position:absolute;
     margin: 0;
 
 }
